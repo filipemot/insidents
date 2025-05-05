@@ -19,8 +19,6 @@ Este é um projeto de API RESTful para gerenciamento de incidentes, desenvolvido
 - Spring Boot
 - Spring Data JPA
 - H2 Database
-- Spring Security
-- Springdoc OpenAPI (Swagger)
 
 ## Pré-requisitos
 

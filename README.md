@@ -10,8 +10,6 @@ Este é um projeto de API RESTful para gerenciamento de incidentes, desenvolvido
 - Listar todos os incidentes
 - Listar incidente por ID
 - Listar os últimos 20 incidentes ordenados por ordem decrescente
-- Documentação da API usando Swagger
-- Proteção de rotas com autenticação básica usando Spring Security
 
 ## Tecnologias Utilizadas
 

@@ -29,7 +29,7 @@ Este é um projeto de API RESTful para gerenciamento de incidentes, desenvolvido
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/filipemot/insidents.git
    cd seu_repositorio
    ```
    
